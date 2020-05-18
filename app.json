@@ -1,0 +1,17 @@
+{
+  "name": "proto1",
+  "displayName": "proto1",
+  "expo": {
+    "name": "proto1",
+    "slug": "proto1",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
